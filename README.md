@@ -1,10 +1,5 @@
 # Análisis Funcional — Primer cuatrimestre de 2014
 
-## Equipo docente
-
-- **Clases teóricas:** Ariel L. Lombardi
-- **Clases prácticas:** Martín Savransky, Antonella Ritorto
-
 ## Prácticas
 
 - [Práctica 1 - Espacios de Banach.](practica1_2014_1C.pdf)
